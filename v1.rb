@@ -4,6 +4,7 @@
 # DEBUGGING TOOL-
 # Find Switch
 # By ZZMario
+# Version 1
 # Usage:
 #-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 # Replace Value A in the function called at the end of the script to the switch
