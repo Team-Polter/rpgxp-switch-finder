@@ -1,5 +1,3 @@
-# This file is exactly how it appears in Luigi's Mansion: The Music Box's script editor.
-# START:
 #=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 # DEBUGGING TOOL-
 # Find Switch
